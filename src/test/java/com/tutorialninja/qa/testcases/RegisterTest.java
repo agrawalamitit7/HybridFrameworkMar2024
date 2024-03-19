@@ -1,6 +1,6 @@
 package com.tutorialninja.qa.testcases;
 
-//updated comment by team member
+//updated comment by team member - with more details
 
 //import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
